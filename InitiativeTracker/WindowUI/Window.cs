@@ -14,13 +14,13 @@ namespace InitiativeTracker.WindowUI
         // Fields
         protected Form window;
         protected IWindow nextWindow;
-        protected TableLayout panel;
+        protected ListLayout panel;
 
         public Window() : this(null) { }
         public Window(IWindow NextWindow)
         {
             nextWindow = NextWindow;
-            panel = new TableLayout();
+            panel = new ListLayout();
             // Create Window
             window = new Form();
             window.AutoSize = true;

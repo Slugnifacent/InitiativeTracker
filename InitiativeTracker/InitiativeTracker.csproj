@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Actor.cs" />
-    <Compile Include="Comparison.cs" />
     <Compile Include="Condition.cs" />
     <Compile Include="CSVFile.cs" />
     <Compile Include="Form1.cs">
@@ -62,6 +61,7 @@
     <Compile Include="WindowUI\EntryComponent.cs" />
     <Compile Include="WindowUI\EntryWindow.cs" />
     <Compile Include="WindowUI\IState.cs" />
+    <Compile Include="WindowUI\ListLayout.cs" />
     <Compile Include="WindowUI\RollInitiativeDialogue.cs" />
     <Compile Include="WindowUI\TableLayout.cs" />
     <Compile Include="WindowUI\Window.cs" />
