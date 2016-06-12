@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("InitiativeTracker")]
+[assembly: AssemblyTitle("WindowsFormsApplication3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("InitiativeTracker")]
+[assembly: AssemblyProduct("WindowsFormsApplication3")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("77dd0616-c72b-415d-9358-871d88c75585")]
+[assembly: Guid("bce255e2-2a81-49fd-b49a-67d47ad953ce")]
 
 // Version information for an assembly consists of the following four values:
 //

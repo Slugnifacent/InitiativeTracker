@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace InitiativeTracker.Properties
+namespace WindowsFormsApplication3.Properties
 {
 
 

@@ -1,9 +1,8 @@
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.exe.config
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csprojResolveAssemblyReference.cache
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.Form1.resources
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.Properties.Resources.resources
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csproj.GenerateResource.Cache
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.exe
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.pdb
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.exe
-c:\users\joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\bin\Debug\InitiativeTracker.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\Table.Action.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.Properties.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.pdb

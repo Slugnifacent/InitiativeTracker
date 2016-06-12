@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InitiativeTracker.WindowUI
+namespace Table
 {
     interface IWindow
     {
         void Enter();
         void Exit();
-        IWindow GetNextWindow();
     }
 }
