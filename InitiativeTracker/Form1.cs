@@ -34,7 +34,7 @@ namespace Table
             OpenFileDialog file = new OpenFileDialog();
 
             // Set filter options and filter index.
-            file.Filter = "TSV Files (.tsv)|*.tsv|CSV Files (.csv)|*.csv|Text Files (.txt)|*.txt|All Files (*.*)|*.*";
+            file.Filter = "TSV Files (.tsv)|*.tsv";
             file.FilterIndex = 1;
 
             // Call the ShowDialog method to show the dialog box.

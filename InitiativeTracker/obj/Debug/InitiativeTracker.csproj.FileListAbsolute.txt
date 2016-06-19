@@ -6,3 +6,4 @@ C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\Initiati
 C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csproj.GenerateResource.Cache
 C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.exe
 C:\Users\Joshua\Documents\Visual Studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.pdb
+C:\Users\Joshua\documents\visual studio 2015\Projects\InitiativeTracker\InitiativeTracker\obj\Debug\InitiativeTracker.csprojResolveAssemblyReference.cache
